@@ -1,0 +1,70 @@
+.c_carousel_caption h3{
+   margin-top: -30% !important;
+  
+}
+.c_contact{
+    background-color: #262929 !important;
+    background-image: url("../images/image_3.jpg") !important;
+}
+.link_item{
+    color: white !important;
+}
+.link_item:hover{
+    color:#ccc9c9  !important;
+}
+.c_navbar{
+    background-color: #088372 !important;
+   
+
+}
+.nav_heading{
+  
+    /* color:#4ebaaa !important; */
+    text-shadow: 2px 2px 2px gray !important;
+    font-family: "Lucida Handwriting";
+    font-size: 30px !important;
+    font-style: italic !important;
+    font-weight: lighter !important;
+}
+
+
+.c_navbar div h2{
+    font-family: "Lucida Handwriting";
+   
+}
+
+.link_item_2{
+   color: rgba(0, 0, 0, 0.747) !important;
+   font-size: 14px !important;
+}
+.link_item_2:hover{
+    background-color:#4ebaaa !important;
+}
+
+
+.c_text_to_text_cont{
+    margin-top:2%;
+    background-color: rgba(0, 0, 0, 0.336) !important;
+    height:450px !important;
+    
+}
+.main_heading{
+width: 50%;
+}
+
+
+
+
+/* COPIED */
+
+.c_nav_bar{
+    background-color: #08796c;
+  }
+  
+ .c_about_2{
+     background-color:  #088372 !important;
+ } 
+ .c_about_image{
+     border: 3px solid #08796c !important;
+ }
+  
